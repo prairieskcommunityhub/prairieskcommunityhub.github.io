@@ -3,10 +3,8 @@ title: "Contact & Inquiries"
 ---
 <div class="section-banner"><h1>✉️ Contact &amp; Inquiries</h1><p>Have a community idea, research question, partnership proposal or resource suggestion? Send us a message.</p></div>
 
-<div class="note warning"><strong>Setup required:</strong> This form will not deliver messages until you replace <code>YOUR_FORM_ID</code> in <code>contact.qmd</code> with your real Formspree form ID. See <code>README.md</code>. Do not publish a live-looking form without activating it.</div>
-
 <div class="form-wrap">
-<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+<form action="https://formspree.io/f/xdearwkk" method="POST">
   <label for="contact-name">Your name *</label>
   <input id="contact-name" type="text" name="name" maxlength="120" required autocomplete="name" />
   <label for="contact-email">Your email address *</label>
