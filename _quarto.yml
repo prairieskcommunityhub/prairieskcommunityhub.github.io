@@ -1,0 +1,54 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - .nojekyll
+
+website:
+  title: "Prairie Community & Innovation Hub"
+  site-url: "https://prairieskcommunityhub.github.io/"
+  description: "Connecting people, sharing knowledge, building communities."
+  navbar:
+    logo-alt: "Prairie Community & Innovation Hub"
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - text: Community
+        menu:
+          - href: community.qmd
+            text: Community Support
+          - href: newcomers.qmd
+            text: Newcomers & Families
+          - href: immigration.qmd
+            text: Immigration & Permits
+          - href: health.qmd
+            text: Health Awareness
+      - text: Opportunities
+        menu:
+          - href: education.qmd
+            text: Education & Training
+          - href: jobs.qmd
+            text: Jobs & Business
+          - href: events.qmd
+            text: Events & Volunteering
+      - text: Research
+        menu:
+          - href: research.qmd
+            text: Research & Data
+      - href: about.qmd
+        text: About
+      - href: contact.qmd
+        text: Contact Us
+  page-footer:
+    left: "© Prairie Community & Innovation Hub · Independent community initiative"
+    right: "Information only · Not affiliated with government immigration authorities"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+execute:
+  freeze: auto

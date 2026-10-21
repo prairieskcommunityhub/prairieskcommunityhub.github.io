@@ -1,0 +1,7 @@
+---
+title: "Events & Volunteering"
+---
+<div class="section-banner"><h1>📅 Events &amp; Volunteering</h1><p>Community participation, events and ways to contribute.</p></div>
+Events and volunteer opportunities will be posted here as they are confirmed.
+
+[Suggest an event or express interest →](contact.qmd)

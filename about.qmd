@@ -1,0 +1,11 @@
+---
+title: "About Us"
+---
+<div class="section-banner"><h1>🌱 About Prairie Community &amp; Innovation Hub</h1><p>Connecting People. Sharing Knowledge. Building Communities.</p></div>
+Prairie Community & Innovation Hub is an emerging, independent community-focused initiative intended to connect Saskatchewan residents with useful information, learning opportunities, community resources, and research insights.
+
+Our planned areas include education, employment resources, newcomer support, public health information, research and data, and community participation.
+
+We are developing the platform progressively. We do not claim to be a registered charity, government agency, licensed immigration consultancy, or established provider of services listed on this website.
+
+[Contact us →](contact.qmd)

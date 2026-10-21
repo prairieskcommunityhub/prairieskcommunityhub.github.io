@@ -1,0 +1,6 @@
+---
+title: "Education & Training"
+---
+<div class="section-banner"><h1>🎓 Education &amp; Training</h1><p>Develop digital, professional and research skills.</p></div>
+<div class="resource-grid"><div class="resource-card"><h3>Digital literacy</h3><p>Planned learning topics include Excel, basic computing and data visualization.</p></div><div class="resource-card"><h3>Data &amp; research skills</h3><p>Explore R, statistics, reproducible reporting and research communication.</p><a href="https://quarto.org/">Learn about Quarto ↗</a></div></div>
+<div class="note">Workshops and classes are ideas under development, not currently scheduled offerings. [Express your interest →](contact.qmd)</div>

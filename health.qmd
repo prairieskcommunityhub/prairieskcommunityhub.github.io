@@ -1,0 +1,6 @@
+---
+title: "Health Awareness"
+---
+<div class="section-banner"><h1>❤️ Health Awareness</h1><p>Reliable health information and ways to find public health resources.</p></div>
+<div class="resource-grid"><div class="resource-card"><h3>Health information</h3><p>Learn about public health, prevention and healthy living.</p><a href="https://www.canada.ca/en/public-health.html">Public Health Agency of Canada ↗</a></div><div class="resource-card"><h3>Saskatchewan health services</h3><p>Find provincial information about health programs and services.</p><a href="https://www.saskatchewan.ca/residents/health">Saskatchewan health resources ↗</a></div></div>
+<div class="note warning">This website does not provide medical diagnosis or treatment advice. For urgent health concerns, contact appropriate local emergency or healthcare services.</div>

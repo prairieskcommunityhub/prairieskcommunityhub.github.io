@@ -1,0 +1,32 @@
+---
+title: "Home"
+page-layout: full
+---
+
+<div class="hero">
+  <span class="pill">📍 Regina</span><span class="pill">Saskatchewan</span><span class="pill">Global Connections</span>
+  <h1>Connecting People. Sharing Knowledge. Building Communities.</h1>
+  <p>Welcome to Prairie Community &amp; Innovation Hub — a growing community initiative connecting residents with education, employment resources, research, practical information, and opportunities to collaborate.</p>
+  <a class="cta" href="contact.qmd">Get in touch →</a>
+</div>
+
+## Explore our community hub
+
+<p class="intro">Choose a topic below to explore dedicated resources and opportunities. These cards are fully clickable and open their respective pages.</p>
+
+<div class="hub-grid">
+  <a class="hub-card blue" href="community.qmd"><span class="symbol">🏠</span><h3>Community Support →</h3><p>Local services, practical resources and community connections.</p></a>
+  <a class="hub-card mint" href="education.qmd"><span class="symbol">🎓</span><h3>Education &amp; Training →</h3><p>Digital skills, learning resources and training opportunities.</p></a>
+  <a class="hub-card amber" href="jobs.qmd"><span class="symbol">💼</span><h3>Jobs &amp; Business →</h3><p>Career resources, job search tools and entrepreneurship.</p></a>
+  <a class="hub-card lav" href="newcomers.qmd"><span class="symbol">🤝</span><h3>Newcomers &amp; Families →</h3><p>Settlement, family life and navigating Saskatchewan.</p></a>
+  <a class="hub-card teal" href="immigration.qmd"><span class="symbol">🌍</span><h3>Immigration &amp; Permits →</h3><p>Official resources for study, work, visitor visas and permanent residence.</p></a>
+  <a class="hub-card rose" href="health.qmd"><span class="symbol">❤️</span><h3>Health Awareness →</h3><p>Evidence-based health information and public resources.</p></a>
+  <a class="hub-card blue" href="research.qmd"><span class="symbol">📊</span><h3>Research &amp; Data →</h3><p>Community insights, reports and interactive dashboards.</p></a>
+  <a class="hub-card mint" href="events.qmd"><span class="symbol">📅</span><h3>Events &amp; Volunteering →</h3><p>Community activities, participation and opportunities to contribute.</p></a>
+</div>
+
+## Have a question or an idea?
+
+We welcome community feedback, collaboration ideas and general inquiries. [Send an inquiry →](contact.qmd)
+
+<div class="note">This website is being developed. Resources link to independent third-party and official providers; listing a resource does not imply a partnership or endorsement.</div>

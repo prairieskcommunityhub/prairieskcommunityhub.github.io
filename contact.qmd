@@ -1,0 +1,36 @@
+---
+title: "Contact & Inquiries"
+---
+<div class="section-banner"><h1>✉️ Contact &amp; Inquiries</h1><p>Have a community idea, research question, partnership proposal or resource suggestion? Send us a message.</p></div>
+
+<div class="note warning"><strong>Setup required:</strong> This form will not deliver messages until you replace <code>YOUR_FORM_ID</code> in <code>contact.qmd</code> with your real Formspree form ID. See <code>README.md</code>. Do not publish a live-looking form without activating it.</div>
+
+<div class="form-wrap">
+<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+  <label for="contact-name">Your name *</label>
+  <input id="contact-name" type="text" name="name" maxlength="120" required autocomplete="name" />
+  <label for="contact-email">Your email address *</label>
+  <input id="contact-email" type="email" name="email" maxlength="200" required autocomplete="email" />
+  <label for="contact-category">Inquiry category *</label>
+  <select id="contact-category" name="category" required>
+    <option value="" disabled selected>Choose a category</option>
+    <option>Community support and resources</option>
+    <option>Education and training</option>
+    <option>Jobs and business</option>
+    <option>Newcomers and settlement resources</option>
+    <option>Immigration information resources</option>
+    <option>Research and data collaboration</option>
+    <option>Events and volunteering</option>
+    <option>Other inquiry</option>
+  </select>
+  <label for="contact-message">Your message *</label>
+  <textarea id="contact-message" name="message" rows="6" maxlength="4000" required placeholder="Briefly describe your inquiry. Please do not include confidential or sensitive personal information."></textarea>
+  <input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off" aria-hidden="true" />
+  <p class="smallprint">By submitting, you agree that the information you provide will be transmitted to our third-party form service (Formspree) for the purpose of responding to your inquiry. Please do not send passports, immigration documents, health records, government IDs or other sensitive information. We cannot guarantee a response time.</p>
+  <button type="submit">Send inquiry →</button>
+</form>
+</div>
+
+## Other ways to connect
+
+You can also suggest community resources or ask about collaboration using the form above once it has been activated.

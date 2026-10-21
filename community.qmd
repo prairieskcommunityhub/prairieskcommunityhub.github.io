@@ -1,0 +1,9 @@
+---
+title: "Community Support"
+---
+<div class="section-banner"><h1>🏠 Community Support</h1><p>Find practical support and community connections in Saskatchewan.</p></div>
+<div class="resource-grid">
+<div class="resource-card"><h3>Find local services</h3><p>Explore community and social services through 211 Saskatchewan.</p><a href="https://sk.211.ca/">211 Saskatchewan ↗</a></div>
+<div class="resource-card"><h3>Provincial programs</h3><p>Explore public services and programs.</p><a href="https://www.saskatchewan.ca/residents">Government of Saskatchewan ↗</a></div>
+</div>
+[Suggest a community resource →](contact.qmd)

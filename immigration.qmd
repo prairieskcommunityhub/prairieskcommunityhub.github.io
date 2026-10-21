@@ -1,0 +1,22 @@
+---
+title: "Immigration, Study & Work Permits"
+---
+
+<div class="section-banner"><h1>🌍 Immigration, Study &amp; Work in Canada</h1><p>Find official information about Canadian immigration pathways, permits, visas and settlement support.</p></div>
+
+<div class="note warning"><strong>Important:</strong> This is an independent information directory, not immigration or legal advice. We are not Immigration, Refugees and Citizenship Canada (IRCC), and we do not process applications or guarantee approvals. Rules and eligibility change; always check official sources. Only authorized representatives may provide paid immigration advice or representation under Canadian rules.</div>
+
+<div class="resource-grid">
+  <div class="resource-card"><h3>🎓 Study permits</h3><p>Find information on studying in Canada, designated learning institutions, application steps and study permit conditions.</p><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada.html">Official IRCC study information ↗</a></div>
+  <div class="resource-card"><h3>💼 Work permits</h3><p>Learn about employer-specific and open work permits, eligibility and application requirements.</p><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada.html">Official IRCC work information ↗</a></div>
+  <div class="resource-card"><h3>✈️ Visitor visas &amp; eTA</h3><p>Explore visiting Canada, temporary resident visas, electronic travel authorization and extensions.</p><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada.html">Official IRCC visitor information ↗</a></div>
+  <div class="resource-card"><h3>🍁 Permanent residence</h3><p>Review economic immigration programs, family sponsorship and permanent residence options.</p><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada.html">Official IRCC immigration programs ↗</a></div>
+  <div class="resource-card"><h3>🌾 Saskatchewan immigration</h3><p>Learn about provincial pathways and Saskatchewan Immigrant Nominee Program information.</p><a href="https://www.saskatchewan.ca/residents/moving-to-saskatchewan/immigrating-to-saskatchewan">Government of Saskatchewan ↗</a></div>
+  <div class="resource-card"><h3>🧭 Check application status</h3><p>Find official tools for application processing times and status updates.</p><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-status.html">IRCC application status ↗</a></div>
+</div>
+
+## Questions about finding resources?
+
+We can help point you toward publicly available official information. **Do not send passport numbers, immigration documents, application numbers or other sensitive personal information** through our inquiry form.
+
+[Contact the community hub →](contact.qmd)

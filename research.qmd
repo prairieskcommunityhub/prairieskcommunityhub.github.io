@@ -1,0 +1,6 @@
+---
+title: "Research & Data"
+---
+<div class="section-banner"><h1>📊 Research &amp; Data</h1><p>Community-focused insights, reproducible reports and data visualization.</p></div>
+<div class="resource-grid"><div class="resource-card"><h3>Interactive dashboards</h3><p>Explore dashboards as they are developed and published.</p><a href="dashboard.qmd">Open dashboard page →</a></div><div class="resource-card"><h3>Open data</h3><p>Discover official Canadian datasets and research sources.</p><a href="https://open.canada.ca/en/open-data">Government of Canada Open Data ↗</a></div></div>
+<div class="note">Reports and dashboards are under development. Public information will be clearly distinguished from original research.</div>

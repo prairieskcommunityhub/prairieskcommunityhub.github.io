@@ -1,0 +1,38 @@
+{
+  "community.qmd": {
+    "community.html": "0d49e7b2"
+  },
+  "contact.qmd": {
+    "contact.html": "a792e1fe"
+  },
+  "dashboard.qmd": {
+    "dashboard.html": "44182035"
+  },
+  "about.qmd": {
+    "about.html": "1546d05d"
+  },
+  "education.qmd": {
+    "education.html": "6cd6df94"
+  },
+  "events.qmd": {
+    "events.html": "adaddf2d"
+  },
+  "health.qmd": {
+    "health.html": "ca3a0568"
+  },
+  "immigration.qmd": {
+    "immigration.html": "85eead11"
+  },
+  "index.qmd": {
+    "index.html": "cae190ae"
+  },
+  "jobs.qmd": {
+    "jobs.html": "adca9971"
+  },
+  "newcomers.qmd": {
+    "newcomers.html": "4a824f74"
+  },
+  "research.qmd": {
+    "research.html": "6e71fe5a"
+  }
+}

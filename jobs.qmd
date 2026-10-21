@@ -1,0 +1,6 @@
+---
+title: "Jobs & Business"
+---
+<div class="section-banner"><h1>💼 Jobs &amp; Business</h1><p>Employment information, career preparation and entrepreneurship resources.</p></div>
+<div class="resource-grid"><div class="resource-card"><h3>Search for jobs</h3><p>Use Canada's official job search portal.</p><a href="https://www.jobbank.gc.ca/">Canada Job Bank ↗</a></div><div class="resource-card"><h3>Business resources</h3><p>Learn about starting or managing a business in Saskatchewan.</p><a href="https://www.saskatchewan.ca/business">Saskatchewan business resources ↗</a></div></div>
+[Ask a question or suggest a resource →](contact.qmd)

@@ -1,37 +1,114 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to Prairie Community Data Lab",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research & Data",
     "section": "",
-    "text": "We provide community research, statistical analysis, interactive dashboards, and data education.\nOur initial focus is Regina and Saskatchewan."
+    "text": "📊 Research & Data\n\n\nCommunity-focused insights, reproducible reports and data visualization.\n\n\n\n\n\nInteractive dashboards\n\n\nExplore dashboards as they are developed and published.\n\nOpen dashboard page →\n\n\n\nOpen data\n\n\nDiscover official Canadian datasets and research sources.\n\nGovernment of Canada Open Data ↗\n\n\n\nReports and dashboards are under development. Public information will be clearly distinguished from original research."
   },
   {
-    "objectID": "index.html#data-for-stronger-communities",
-    "href": "index.html#data-for-stronger-communities",
-    "title": "Welcome to Prairie Community Data Lab",
+    "objectID": "jobs.html",
+    "href": "jobs.html",
+    "title": "Jobs & Business",
     "section": "",
-    "text": "We provide community research, statistical analysis, interactive dashboards, and data education.\nOur initial focus is Regina and Saskatchewan."
+    "text": "💼 Jobs & Business\n\n\nEmployment information, career preparation and entrepreneurship resources.\n\n\n\n\n\nSearch for jobs\n\n\nUse Canada’s official job search portal.\n\nCanada Job Bank ↗\n\n\n\nBusiness resources\n\n\nLearn about starting or managing a business in Saskatchewan.\n\nSaskatchewan business resources ↗\n\n\nAsk a question or suggest a resource →"
   },
   {
-    "objectID": "index.html#what-we-do",
-    "href": "index.html#what-we-do",
-    "title": "Welcome to Prairie Community Data Lab",
-    "section": "What We Do",
-    "text": "What We Do\n\nCommunity Data Analysis\nPopulation and Health Research\nInteractive Dashboards\nStatistical Consulting\nR, SAS, and Power BI Training"
+    "objectID": "immigration.html",
+    "href": "immigration.html",
+    "title": "Immigration, Study & Work Permits",
+    "section": "",
+    "text": "Find official information about Canadian immigration pathways, permits, visas and settlement support."
   },
   {
-    "objectID": "index.html#featured-research",
-    "href": "index.html#featured-research",
-    "title": "Welcome to Prairie Community Data Lab",
-    "section": "Featured Research",
-    "text": "Featured Research\nExplore our interactive dashboards and community reports."
+    "objectID": "immigration.html#questions-about-finding-resources",
+    "href": "immigration.html#questions-about-finding-resources",
+    "title": "Immigration, Study & Work Permits",
+    "section": "Questions about finding resources?",
+    "text": "Questions about finding resources?\nWe can help point you toward publicly available official information. Do not send passport numbers, immigration documents, application numbers or other sensitive personal information through our inquiry form.\nContact the community hub →"
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events & Volunteering",
+    "section": "",
+    "text": "📅 Events & Volunteering\n\n\nCommunity participation, events and ways to contribute.\n\n\nEvents and volunteer opportunities will be posted here as they are confirmed.\nSuggest an event or express interest →"
+  },
+  {
+    "objectID": "dashboard.html",
+    "href": "dashboard.html",
+    "title": "Interactive Dashboards",
+    "section": "",
+    "text": "📈 Interactive Dashboards\n\n\nData stories and interactive community insights will be added here.\n\n\nThis page is ready for your Quarto, Plotly and htmlwidgets dashboards. GitHub Pages supports client-side interactive charts; server-side Shiny apps require separate hosting.\nBack to Research & Data →"
+  },
+  {
+    "objectID": "community.html",
+    "href": "community.html",
+    "title": "Community Support",
+    "section": "",
+    "text": "🏠 Community Support\n\n\nFind practical support and community connections in Saskatchewan.\n\n\n\n\n\nFind local services\n\n\nExplore community and social services through 211 Saskatchewan.\n\n211 Saskatchewan ↗\n\n\n\nProvincial programs\n\n\nExplore public services and programs.\n\nGovernment of Saskatchewan ↗\n\n\nSuggest a community resource →"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Us",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "🌱 About Prairie Community & Innovation Hub\n\n\nConnecting People. Sharing Knowledge. Building Communities.\n\n\nPrairie Community & Innovation Hub is an emerging, independent community-focused initiative intended to connect Saskatchewan residents with useful information, learning opportunities, community resources, and research insights.\nOur planned areas include education, employment resources, newcomer support, public health information, research and data, and community participation.\nWe are developing the platform progressively. We do not claim to be a registered charity, government agency, licensed immigration consultancy, or established provider of services listed on this website.\nContact us →"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact & Inquiries",
+    "section": "",
+    "text": "Have a community idea, research question, partnership proposal or resource suggestion? Send us a message."
+  },
+  {
+    "objectID": "contact.html#other-ways-to-connect",
+    "href": "contact.html#other-ways-to-connect",
+    "title": "Contact & Inquiries",
+    "section": "Other ways to connect",
+    "text": "Other ways to connect\nYou can also suggest community resources or ask about collaboration using the form above once it has been activated."
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education & Training",
+    "section": "",
+    "text": "🎓 Education & Training\n\n\nDevelop digital, professional and research skills.\n\n\n\n\n\nDigital literacy\n\n\nPlanned learning topics include Excel, basic computing and data visualization.\n\n\n\n\nData & research skills\n\n\nExplore R, statistics, reproducible reporting and research communication.\n\nLearn about Quarto ↗\n\n\n\nWorkshops and classes are ideas under development, not currently scheduled offerings. Express your interest →"
+  },
+  {
+    "objectID": "health.html",
+    "href": "health.html",
+    "title": "Health Awareness",
+    "section": "",
+    "text": "❤️ Health Awareness\n\n\nReliable health information and ways to find public health resources.\n\n\n\n\n\nHealth information\n\n\nLearn about public health, prevention and healthy living.\n\nPublic Health Agency of Canada ↗\n\n\n\nSaskatchewan health services\n\n\nFind provincial information about health programs and services.\n\nSaskatchewan health resources ↗\n\n\n\nThis website does not provide medical diagnosis or treatment advice. For urgent health concerns, contact appropriate local emergency or healthcare services."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "📍 ReginaSaskatchewanGlobal Connections\n\n\nWelcome to Prairie Community & Innovation Hub — a growing community initiative connecting residents with education, employment resources, research, practical information, and opportunities to collaborate.\n\nGet in touch →"
+  },
+  {
+    "objectID": "index.html#explore-our-community-hub",
+    "href": "index.html#explore-our-community-hub",
+    "title": "Home",
+    "section": "Explore our community hub",
+    "text": "Explore our community hub\n\nChoose a topic below to explore dedicated resources and opportunities. These cards are fully clickable and open their respective pages.\n\n\n🏠\n\nCommunity Support →\n\n\nLocal services, practical resources and community connections.\n\n 🎓\n\nEducation & Training →\n\n\nDigital skills, learning resources and training opportunities.\n\n 💼\n\nJobs & Business →\n\n\nCareer resources, job search tools and entrepreneurship.\n\n 🤝\n\nNewcomers & Families →\n\n\nSettlement, family life and navigating Saskatchewan.\n\n 🌍\n\nImmigration & Permits →\n\n\nOfficial resources for study, work, visitor visas and permanent residence.\n\n ❤️\n\nHealth Awareness →\n\n\nEvidence-based health information and public resources.\n\n 📊\n\nResearch & Data →\n\n\nCommunity insights, reports and interactive dashboards.\n\n 📅\n\nEvents & Volunteering →\n\n\nCommunity activities, participation and opportunities to contribute."
+  },
+  {
+    "objectID": "index.html#have-a-question-or-an-idea",
+    "href": "index.html#have-a-question-or-an-idea",
+    "title": "Home",
+    "section": "Have a question or an idea?",
+    "text": "Have a question or an idea?\nWe welcome community feedback, collaboration ideas and general inquiries. Send an inquiry →\n\nThis website is being developed. Resources link to independent third-party and official providers; listing a resource does not imply a partnership or endorsement."
+  },
+  {
+    "objectID": "newcomers.html",
+    "href": "newcomers.html",
+    "title": "Newcomers & Families",
+    "section": "",
+    "text": "🤝 Newcomers & Families\n\n\nInformation to help families settle, learn and connect in Saskatchewan.\n\n\n\n\n\nSettlement services\n\n\nFind free newcomer services and local supports.\n\nFind newcomer services ↗\n\n\n\nImmigration & permits\n\n\nFind official information about study permits, work permits, visitor visas and permanent residence.\n\nExplore immigration resources →\n\n\nShare a community resource →"
   }
 ]

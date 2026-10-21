@@ -1,0 +1,6 @@
+---
+title: "Newcomers & Families"
+---
+<div class="section-banner"><h1>🤝 Newcomers &amp; Families</h1><p>Information to help families settle, learn and connect in Saskatchewan.</p></div>
+<div class="resource-grid"><div class="resource-card"><h3>Settlement services</h3><p>Find free newcomer services and local supports.</p><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/new-immigrants/new-life-canada/help-settle.html">Find newcomer services ↗</a></div><div class="resource-card"><h3>Immigration &amp; permits</h3><p>Find official information about study permits, work permits, visitor visas and permanent residence.</p><a href="immigration.qmd">Explore immigration resources →</a></div></div>
+[Share a community resource →](contact.qmd)

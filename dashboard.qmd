@@ -1,0 +1,7 @@
+---
+title: "Interactive Dashboards"
+---
+<div class="section-banner"><h1>📈 Interactive Dashboards</h1><p>Data stories and interactive community insights will be added here.</p></div>
+This page is ready for your Quarto, Plotly and htmlwidgets dashboards. GitHub Pages supports client-side interactive charts; server-side Shiny apps require separate hosting.
+
+[Back to Research & Data →](research.qmd)
